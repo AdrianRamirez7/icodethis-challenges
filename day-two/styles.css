@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(205, 189, 202);
+
+}
+
+.back-box {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color: bisque;       
+}
+
+.login-section {
+    position: relative;
+    
+}
+
+
+
+
+
+
