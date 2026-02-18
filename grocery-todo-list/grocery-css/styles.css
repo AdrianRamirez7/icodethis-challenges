@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.main-container {
+    height: 100vh;
+    width: 100vw;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.front-container, .back-container {
+    height: 500px;
+    width: 80vw;
+
+}
+
+.front-container {
+    background-color: blue;
+    
+}
+
+.back-container {
+    background-color: red;
+    
+}
+
